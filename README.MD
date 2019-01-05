@@ -1,3 +1,6 @@
 # Updated Portfolio
 
-## My new and updated Portfolio. Still a few things to add but we are almost there.
+## My new and updated Portfolio.
+
+Ongoing improvements: Links on portfolio page are not to my liking. I'm going to attempt one link left and one link right.
+                      Add more of my personal projects I've already completed outside of coursework.
