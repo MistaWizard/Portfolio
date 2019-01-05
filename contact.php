@@ -48,7 +48,7 @@
                     <a class="nav-link" href="https://www.linkedin.com/in/tylermckellar/" target="_blank"><i class="fab fa-linkedin fa-2x sr-contact-3"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#" target="_blank"><i class="far fa-file fa-2x sr-contact-5"></i></a>
+                    <a class="nav-link" href="assets/documents/Resume.pdf" target="_blank"><i class="far fa-file fa-2x sr-contact-5"></i></a>
                 </li>
             </ul>
         </div>
