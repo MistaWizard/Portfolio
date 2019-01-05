@@ -62,28 +62,37 @@
         </div>
         <div class="row mt-3 d-flex">
             <div class="col">
-                <a class="clickylinks" href="https://laurashortridge.github.io/Group-Project/"><img src="assets/images/JustinCASE.png" alt="JustinCase" class="place rounded"></a>
+                <a class="clickylinks" href="https://laurashortridge.github.io/Group-Project/" target="_blank"><img src="assets/images/JustinCASE.png" alt="JustinCase" class="place rounded"></a>
                 <div class="caption">
-                <a class="rounded live" href="https://laurashortridge.github.io/Group-Project/">JustinCASE</a>
-                <a class="rounded git" href="https://github.com/LauraShortridge/Group-Project">GitHub</a>
+                <a class="rounded live" href="https://laurashortridge.github.io/Group-Project/" target="_blank">JustinCASE</a>
+                <a class="rounded git" href="https://github.com/LauraShortridge/Group-Project" target="_blank">GitHub</a>
                 </div>
             </div>
         </div>
         <div class="row mt-3 d-flex">
             <div class="col">
-                <a class="clickylinks" href="https://mistawizard.github.io/GifTastic/"><img src="assets/images/GifTastic.png" alt="Rock Paper Scissors" class="place rounded"></a>
+                <a class="clickylinks" href="https://mistawizard.github.io/GifTastic/" target="_blank"><img src="assets/images/GifTastic.png" alt="Rock Paper Scissors" class="place rounded"></a>
                 <div class="caption">
-                <a class="rounded live" href="https://mistawizard.github.io/GifTastic/">GifTastic</a>
-                <a class="rounded git" href="https://github.com/MistaWizard/GifTastic">GitHub</a>
+                <a class="rounded live" href="https://mistawizard.github.io/GifTastic/" target="_blank">GifTastic</a>
+                <a class="rounded git" href="https://github.com/MistaWizard/GifTastic" target="_blank">GitHub</a>
                 </div>
             </div>
         </div>
-        <div class="row mt-3 d-flex justify-content-center">
+        <div class="row mt-3 d-flex">
             <div class="col">
-                <a class="clickylinks" href="https://mistawizard.github.io/TriviaGame/"><img src="assets/images/PokeTrivia.png" alt="PokeTrivia" class="place rounded"></a>
+                <a class="clickylinks" href="https://mistawizard.github.io/TriviaGame/" target="_blank"><img src="assets/images/PokeTrivia.png" alt="PokeTrivia" class="place rounded"></a>
                 <div class="caption">
-                <a class="rounded live" href="https://mistawizard.github.io/TriviaGame/">PokeTrivia</a>
-                <a class="rounded git" href="https://github.com/MistaWizard/TriviaGame">GitHub</a>
+                <a class="rounded live" href="https://mistawizard.github.io/TriviaGame/" target="_blank">PokeTrivia</a>
+                <a class="rounded git" href="https://github.com/MistaWizard/TriviaGame" target="_blank">GitHub</a>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 d-flex">
+            <div class="col">
+                <a class="clickylinks" href="https://youtu.be/6ctmaTl-CX4" target="_blank"><img src="assets/images/pedal.jpg" alt="Teensy Go Button" class="place rounded"></a>
+                <div class="caption">
+                <a class="rounded live" href="https://youtu.be/6ctmaTl-CX4" target="_blank">Teensy Go Button</a>
+                <a class="rounded git" href="https://github.com/MistaWizard/TeensyGoButton" target="_blank">GitHub</a>
                 </div>
             </div>
         </div>
