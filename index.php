@@ -71,7 +71,7 @@
 
     <footer class="footer">
         <div class="container" id="footer-text">
-            <span class="text-muted">Copyright &copy; <?php echo date("Y"); ?></span>
+            <span class="text-muted">&copy; <?php echo date("Y"); ?></span>
         </div>
     </footer>
 </body>
